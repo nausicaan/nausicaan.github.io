@@ -1,13 +1,12 @@
 ---
-layout: first
-# title: The Tao of Me
-tagline: "Once apon a time I fancied myself a writer, a journalist, and even a starving artist. During those days I created an archive of fictional stories. This is mostly a collection of those, with maybe a post added from time to time. Many of my stories are unfinished, so if you'd like to give them a good ending, please do. I look forward to seeing them improved."
+layout: default
+tagline: "The site you didn't mean to find"
 ---
 
 <section class="jumbotron">
     <article class="container">
         <h1 class="post-title-main" itemprop="name headline">{{ site.title }}</h1>
-        <p class="post-list post-box">{{ page.tagline }}</p>
+        <p class="post-list post-box">{{ site.description }}</p>
     </article>
 </section>
 

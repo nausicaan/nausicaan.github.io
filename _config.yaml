@@ -2,10 +2,10 @@
 title: The Tao of Me
 author:
   name: Byron Stuike
-  email: byron.stuike@gov.bc.ca
+  email: bstuike@duck.com
 
 #write html inside the double quotes to display in jumbotron
-description: "Once apon a time I fancied myself a writer, a journalist, and even a starving artist. During those days I created an archive of stories. This is mostly a collection of those, with maybe a new post added from time to time. Note that many of my stories are unfinished, but if you'd like to give them a good ending, please do."
+description: "Once apon a time I fancied myself a writer, a journalist, and even a starving artist. During those days I created an archive of fictional stories. This is mostly a collection of those, with maybe a post added from time to time. Many of my stories are unfinished, so if you'd like to give them a good ending, please do. I look forward to seeing them improved."
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nausicaan.github.io" # the base hostname & protocol for your site
